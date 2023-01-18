@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".UI.UI.mycart"
+    android:background="#C9DEE4"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/favbackground"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:translationY="650dp">
+
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/checkoutbutton"
+            android:layout_width="206dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cartbutton"
+            android:text="Checkout"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:translationY="-320dp" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="55dp"
+        android:layout_height="62dp"
+        android:background="#C9DEE4"
+        app:srcCompat="@drawable/back" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="99dp"
+        android:layout_marginEnd="149dp"
+        android:layout_marginBottom="481dp"
+        android:layout_toEndOf="@+id/imageButton5"
+        android:text="My Cart"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:translationY="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="570dp"
+        android:orientation="vertical"
+        android:translationY="80dp"
+        >
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/cart_rec"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

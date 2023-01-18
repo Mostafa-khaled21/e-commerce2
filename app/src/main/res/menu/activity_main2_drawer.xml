@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profilee"
+            android:icon="@drawable/user"
+            android:title="profile" />
+        <item
+            android:id="@+id/homee"
+            android:icon="@drawable/hhome"
+            android:title="home bage" />
+        <item
+            android:id="@+id/cartt"
+            android:icon="@drawable/cartthome"
+            android:title="MY cart" />
+        <item
+            android:id="@+id/favv"
+            android:icon="@drawable/fav"
+            android:title="favourite" />
+        <item
+            android:id="@+id/order"
+            android:icon="@drawable/order"
+            android:title="order" />
+        <item
+            android:id="@+id/notiff"
+            android:icon="@drawable/ii"
+            android:title="notification" />
+        <item
+            android:id="@+id/signout"
+            android:icon="@drawable/signout"
+            android:title="sign out" />
+
+    </group>
+</menu>

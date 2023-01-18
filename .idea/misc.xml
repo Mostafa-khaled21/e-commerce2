@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/drawable/botton.xml" value="0.168" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/drawable/menu_icon.xml" value="0.168" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_acc.xml" value="0.22" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_checkout.xml" value="0.1314596554850408" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_details.xml" value="0.22" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_favourite.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_favourits.xml" value="0.25" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_forgetpassword.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_home2.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_main.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_mycart.xml" value="0.2" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_notification.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_onboard1.xml" value="0.33" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_onboard2.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_onboard3.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_profile.xml" value="0.18" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_search.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_signin.xml" value="0.22" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/app_bar_home2.xml" value="0.1314596554850408" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/cell_fav_cart.xml" value="0.33" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/content_home2.xml" value="0.25" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/dialog_check.xml" value="0.16" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/fragment_gallery.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/fragment_home.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/fragment_slideshow.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/nav_header_home2.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/layout/product_cell.xml" value="0.33" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/menu/activity_main2_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/project/app/src/main/res/menu/home2.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_checkout.xml" value="0.14279606669516887" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_details.xml" value="0.1" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_favourits.xml" value="0.176" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_forgetpassword.xml" value="0.14279606669516887" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_mycart.xml" value="0.2" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_onboard1.xml" value="0.14279606669516887" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_onboard2.xml" value="0.14279606669516887" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/activity_signin.xml" value="0.14279606669516887" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/cell_fav_cart.xml" value="0.1" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/dialog_check.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/layout/fragment_home.xml" value="0.14279606669516887" />
+        <entry key="..\:/Users/mazen/Downloads/2nd first term/project/project/app/src/main/res/menu/activity_main2_drawer.xml" value="0.14279606669516887" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
